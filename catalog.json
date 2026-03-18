@@ -1,0 +1,113 @@
+{
+  "name": "Kuro",
+  "packages": [
+    {
+      "id": "basketball-arrow",
+      "name": "Basketball Arrow",
+      "previewUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/basketball-arrow/preview.png",
+      "zipUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/basketball-arrow/package.zip"
+    },
+    {
+      "id": "black-3d-arrow",
+      "name": "Black 3D Arrow",
+      "previewUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/black-3d-arrow/preview.png",
+      "zipUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/black-3d-arrow/package.zip"
+    },
+    {
+      "id": "black-3d-stock-arrow",
+      "name": "Black 3D Stock Arrow",
+      "previewUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/black-3d-stock-arrow/preview.png",
+      "zipUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/black-3d-stock-arrow/package.zip"
+    },
+    {
+      "id": "black-arrow-white-outline",
+      "name": "Black Arrow White Outline",
+      "previewUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/black-arrow-white-outline/preview.png",
+      "zipUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/black-arrow-white-outline/package.zip"
+    },
+    {
+      "id": "call-of-duty-game-arrow",
+      "name": "Call Of Duty Game Arrow",
+      "previewUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/call-of-duty-game-arrow/preview.png",
+      "zipUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/call-of-duty-game-arrow/package.zip"
+    },
+    {
+      "id": "colored-arrow",
+      "name": "Colored Arrow",
+      "previewUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/colored-arrow/preview.png",
+      "zipUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/colored-arrow/package.zip"
+    },
+    {
+      "id": "colored-stock-arrow",
+      "name": "Colored Stock Arrow",
+      "previewUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/colored-stock-arrow/preview.png",
+      "zipUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/colored-stock-arrow/package.zip"
+    },
+    {
+      "id": "discord-arrow",
+      "name": "Discord Arrow",
+      "previewUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/discord-arrow/preview.png",
+      "zipUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/discord-arrow/package.zip"
+    },
+    {
+      "id": "egypt-pyramids-arrow",
+      "name": "Egypt Pyramids Arrow",
+      "previewUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/egypt-pyramids-arrow/preview.png",
+      "zipUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/egypt-pyramids-arrow/package.zip"
+    },
+    {
+      "id": "miko-arrow",
+      "name": "Miko Arrow",
+      "previewUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/miko-arrow/preview.png",
+      "zipUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/miko-arrow/package.zip"
+    },
+    {
+      "id": "mikoo-arrow",
+      "name": "Mikoo Arrow",
+      "previewUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/mikoo-arrow/preview.png",
+      "zipUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/mikoo-arrow/package.zip"
+    },
+    {
+      "id": "minecraft-game-arrow",
+      "name": "Minecraft Game Arrow",
+      "previewUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/minecraft-game-arrow/preview.png",
+      "zipUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/minecraft-game-arrow/package.zip"
+    },
+    {
+      "id": "mrbean-arrow",
+      "name": "Mrbean Arrow",
+      "previewUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/mrbean-arrow/preview.png",
+      "zipUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/mrbean-arrow/package.zip"
+    },
+    {
+      "id": "mrbeast-arrow",
+      "name": "Mrbeast Arrow",
+      "previewUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/mrbeast-arrow/preview.png",
+      "zipUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/mrbeast-arrow/package.zip"
+    },
+    {
+      "id": "paper-arrow",
+      "name": "Paper Arrow",
+      "previewUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/paper-arrow/preview.png",
+      "zipUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/paper-arrow/package.zip"
+    },
+    {
+      "id": "porsche-car-arrow",
+      "name": "Porsche Car Arrow",
+      "previewUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/porsche-car-arrow/preview.png",
+      "zipUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/porsche-car-arrow/package.zip"
+    },
+    {
+      "id": "skateboard-arrow",
+      "name": "Skateboard Arrow",
+      "previewUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/skateboard-arrow/preview.png",
+      "zipUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/skateboard-arrow/package.zip"
+    },
+    {
+      "id": "snapshot-arrow",
+      "name": "Snapshot Arrow",
+      "previewUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/snapshot-arrow/preview.png",
+      "zipUrl": "https://raw.githubusercontent.com/sandkshnbh/Kuro/main/packages/snapshot-arrow/package.zip"
+    }
+  ]
+}
